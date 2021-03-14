@@ -1,21 +1,3 @@
-
-<!-- <h3>INPUT NILAI MAHASISWA</h3>
-<form method="GET" action="array_siswa.php">
-Nama :
-<input type="text" name="name" value="" size="30"/><br>
-NIM :
-<input type="text" name="nim" value="" size="30"/><br>
-Mata Kuliah :
-<select name="matkul">
-    <option value="DDP">Dasar-dasar Pemugraman </option>
-    <option value="BDI"> Basis Data1</option>
-    <option value="WEB1">Pemograman Web</option>
-</select><br>
-Nilai UTS : <input type="text" name="nilai_uts" value="" size="6"/><br>
-Nilai UAS : <input type="text" name="nilai_uas" value="" size="6"/><br>
-Nilai Tugas/Praktikum : <input type="text" name="nilai_tugas" value="" size="6"/><br>
-<input type="submit" value="Simpan" name="proses"/>
-</form> -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -36,7 +18,7 @@ Nilai Tugas/Praktikum : <input type="text" name="nilai_tugas" value="" size="6"/
   </style>
   </head>
 <body>
-<form class="form-horizontal " method = "GET" action = "array_siswa.php">
+<form class="form-horizontal " method = "GET" action = "nilai_siswa.php">
 <fieldset>
 
 <!-- Form Name -->
